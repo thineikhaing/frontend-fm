@@ -17,3 +17,5 @@ $ npm cache clean --force
 $ npm install
 $ npm run start
 ```
+
+https://blog.usman-s.me/context-api-in-react

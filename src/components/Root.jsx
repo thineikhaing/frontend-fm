@@ -4,6 +4,8 @@ import { alertService } from '../services/alert'
 import SubscribeForm from "./SubscribeForm"
 import UserTable from "./UserTable"
 import { API_HOST } from "../config"
+import render from "dom-serializer"
+
 
 class Root extends React.Component {
 
