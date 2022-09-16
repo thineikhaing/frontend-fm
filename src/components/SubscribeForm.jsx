@@ -35,8 +35,9 @@ class SubscribeForm extends React.Component {
                                 <button type="button" className="btn btn-primary" disabled>Sending Request...</button>
                             ) : (
                                 <button type="button" onClick={this.props.subscribe}
-                                        className="btn btn-primary">Subscribe</button>
+                                        className="btn btn-primary">Register</button>
                             )}
+  
                         </div>
                     </form>
                 </div>
