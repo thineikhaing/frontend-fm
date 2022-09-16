@@ -12,6 +12,8 @@ In order to run this locally, the following is required:
 Running on Frontend
 ```sh
 $ cd frontend-fm
+$ npm set audit false
+$ npm cache clean --force 
 $ npm install
 $ npm run start
 ```
